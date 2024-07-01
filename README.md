@@ -22,3 +22,5 @@ Technologies Used
 HTML
 
 CSS
+
+I completed this project when I was completing one of the courses of freeCodeCamp which was a part of their course curriculum.
